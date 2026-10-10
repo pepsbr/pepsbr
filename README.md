@@ -1,22 +1,27 @@
 # Olá, sou Pedro Paulo 👋
 
-### Análise de Dados | Python · SQL · Visualização de Dados
+### Engenharia de Dados | SQL · SAP HANA · Python
 
-Estou cursando Especialização em Engenharia e Análise de Dados. Compartilho estudos aplicados de exploração de dados, modelagem descritiva e comunicação de resultados.
+Sou engenheiro eletricista, com formação em Eletrotécnica pela Universidade de Pernambuco (UPE), e tenho me especializado na área de Engenharia de Dados. Tenho familiaridade com SAP HANA e elaboração de scripts SQL, além de conhecimentos em construção, estruturação e manutenção de bancos de dados.
+
+Também desenvolvo estudos aplicados de exploração e modelagem descritiva de dados, com foco na análise e comunicação de resultados.
 
 ## Foco
 
+- Scripts SQL e consultas em bancos de dados
+- Construção, estruturação e manutenção de bancos de dados
+- Familiaridade com SAP HANA
 - Preparação e análise exploratória de dados
-- Modelagem descritiva e avaliação de agrupamentos
-- Visualização de dados e construção de dashboards
+- Modelagem descritiva, visualização e dashboards
 
 ## Ferramentas
 
-`Python` · `pandas` · `NumPy` · `SQL` · `Jupyter` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `scikit-learn`
+`Python` · `SQL` · `SAP HANA` · `pandas` · `NumPy` · `Jupyter` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `scikit-learn`
 
 ## Formação
 
-Especialização em Engenharia e Análise de Dados.
+Engenharia Elétrica/Eletrotécnica — Universidade de Pernambuco (UPE)  
+Especialização em Engenharia e Análise de Dados
 
 ## LinkedIn
 

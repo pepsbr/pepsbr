@@ -14,9 +14,9 @@ Também desenvolvo estudos aplicados de exploração e modelagem descritiva de d
 - Preparação e análise exploratória de dados
 - Modelagem descritiva, visualização e dashboards
 
-## Ferramentas
+## Ferramentas e tecnologias
 
-`Python` · `SQL` · `SAP HANA` · `pandas` · `NumPy` · `Jupyter` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `scikit-learn`
+`Python` · `SQL` · `SAP HANA` · `pandas` · `NumPy` · `Dask` · `PyAutoGUI` · `scikit-learn` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `Jupyter` · `VS Code` · `Git` · `GitHub`
 
 ## Formação
 

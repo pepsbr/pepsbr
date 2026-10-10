@@ -2,17 +2,22 @@
 
 ### Análise de Dados | Python · SQL · Visualização de Dados
 
-Estou cursando Especialização em Engenharia e Análise de Dados. Neste perfil compartilho projetos acadêmicos e estudos aplicados de exploração de dados, modelagem descritiva e comunicação de resultados.
+Estou cursando Especialização em Engenharia e Análise de Dados. Compartilho estudos aplicados de exploração de dados, modelagem descritiva e comunicação de resultados.
 
-## Projetos em destaque
+## Foco
 
-- [Mall Customers — exploração e clusterização](https://github.com/pepsbr/analise-mall-customers-exploracao-modelos-descritivos): análise exploratória, K-Means e avaliação de grupos.
-- [Perfis de criminalidade em Chicago](https://github.com/pepsbr/projeto-final-modelos-descritivos): agrupamento hierárquico de distritos, com discussão das limitações e do escopo descritivo.
+- Preparação e análise exploratória de dados
+- Modelagem descritiva e avaliação de agrupamentos
+- Visualização de dados e construção de dashboards
 
-## Ferramentas usadas nos projetos
+## Ferramentas
 
 `Python` · `pandas` · `NumPy` · `SQL` · `Jupyter` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `scikit-learn`
 
-## Contato
+## Formação
 
-[LinkedIn](https://www.linkedin.com/in/pedro-paulo-sant%E2%80%99-anna-belo-ramos-9b0697171/)
+Especialização em Engenharia e Análise de Dados.
+
+## LinkedIn
+
+[Perfil profissional](https://www.linkedin.com/in/pedropsbr/)

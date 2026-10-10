@@ -21,7 +21,7 @@ Também desenvolvo estudos aplicados de exploração e modelagem descritiva de d
 ## Formação
 
 Engenharia Elétrica/Eletrotécnica — Universidade de Pernambuco (UPE)  
-Especialização em Engenharia e Análise de Dados
+Especialização em Engenharia e Análise de Dados — CESAR School
 
 ## LinkedIn
 

@@ -25,4 +25,4 @@ Especialização em Engenharia e Análise de Dados — CESAR School
 
 ## LinkedIn
 
-[Perfil profissional](https://www.linkedin.com/in/pedropsbr/)
+[Perfil](https://www.linkedin.com/in/pedropsbr/)

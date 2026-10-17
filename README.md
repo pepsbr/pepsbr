@@ -5,7 +5,7 @@
 ### Engenharia de Dados & Analytics | SQL · SAP HANA · Python · Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedropsbr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropsbr/)
-[![CESAR School](https://img.shields.io/badge/CESAR%20School-Engenharia%20e%20An%C3%A1lise%20de%20Dados-FF6B00?style=for-the-badge)](https://www.cesar.school/)
+[![CESAR School](https://img.shields.io/badge/PosGrad-Eng%20Dados%20(CESAR%20School)-FF6B00?style=for-the-badge)](https://github.com/topics/posgrad-eng-dados)
 [![UPE](https://img.shields.io/badge/UPE-Engenharia%20El%C3%A9trica%20%2F%20Eletrot%C3%A9cnica-003366?style=for-the-badge)](https://www.upe.br/)
 
 </div>
@@ -54,16 +54,20 @@ Atuo com foco em **Engenharia de Dados**, elaboração de scripts **SQL** e oper
 
 ---
 
-## 📂 Projetos em Destaque
+## 🎓 PosGrad - Eng Dados (Portfólio de Projetos)
 
-| Projeto | Área / Disciplina | Principais Técnicas & Ferramentas |
+Agrupamento das atividades e projetos práticos desenvolvidos na **Especialização em Engenharia e Análise de Dados (CESAR School)** — todos marcados com a tag [`#posgrad-eng-dados`](https://github.com/search?q=user%3Apepsbr+topic%3Aposgrad-eng-dados&type=repositories):
+
+| Projeto / Dataset | Disciplina | Principais Técnicas & Ferramentas |
 | :--- | :--- | :--- |
-| 🍷 [**Classificação da Qualidade de Vinhos (k-NN)**](https://github.com/pepsbr/projeto-02-modelos-preditivos-classicos-knn-wine) | Modelos Preditivos Clássicos | `KNeighborsClassifier` · `StandardScaler` · Método do Cotovelo · Matriz de Confusão · Curva ROC One-vs-Rest |
-| 🚢 [**EDA e Pré-processamento do Dataset Titanic**](https://github.com/pepsbr/projeto-01-modelos-preditivos-classicos-titanic) | Modelos Preditivos Clássicos | Imputação contextual por grupo · `LabelEncoder` · `One-Hot Encoding` · Holdout 70/30 · Prevenção de *Data Leakage* |
-| 🚓 [**Perfis de Criminalidade por Distrito em Chicago**](https://github.com/pepsbr/projeto-final-modelos-descritivos) | Modelos Descritivos | Clusterização Hierárquica · Análise de Robustez · Git LFS · Engenharia de Atributos Agregados |
-| 🍇 [**Análise de Clusterização — Dataset Wine (UCI)**](https://github.com/pepsbr/analise-de-clusterizacao-do-dataset-de-wines) | Modelos Descritivos | Distâncias Euclidiana e Manhattan · Ligação Média (`average`) · Dendrogramas · Padronização |
-| 🛍️ [**Segmentação de Clientes — Mall Customers**](https://github.com/pepsbr/analise-mall-customers-exploracao-modelos-descritivos) | Modelos Descritivos | `K-Means` · Método do Cotovelo · Silhueta e Métricas de Validação de Clusters |
-| ⚽ [**Estatística Aplicada — Jogadores de Futebol**](https://github.com/pepsbr/projeto-final-estatisticas-jogadores-futebol) | Estatística I e II | Distribuições de Probabilidade · Correlação · Teorema Central do Limite · Intervalos de Confiança |
+| 🍷 [**Classificação da Qualidade de Vinhos (k-NN — UCI Wine Quality)**](https://github.com/pepsbr/projeto-02-modelos-preditivos-classicos-knn-wine) | Modelos Preditivos Clássicos | `KNeighborsClassifier` · `StandardScaler` · Método do Cotovelo · Matriz de Confusão · Curva ROC One-vs-Rest |
+| 🚢 [**EDA e Pré-processamento — Dataset Titanic**](https://github.com/pepsbr/projeto-01-modelos-preditivos-classicos-titanic) | Modelos Preditivos Clássicos | Imputação contextual por grupo · `LabelEncoder` · `One-Hot Encoding` · Holdout 70/30 · Prevenção de *Data Leakage* |
+| 🚓 [**Perfis de Criminalidade por Distrito — Chicago Crimes**](https://github.com/pepsbr/projeto-final-modelos-descritivos) | Modelos Descritivos | Clusterização Hierárquica · Análise de Robustez · Git LFS · Engenharia de Atributos Agregados |
+| 🍇 [**Clusterização Hierárquica — Dataset Wine (UCI)**](https://github.com/pepsbr/analise-de-clusterizacao-do-dataset-de-wines) | Modelos Descritivos | Distâncias Euclidiana e Manhattan · Ligação Média (`average`) · Dendrogramas · Padronização |
+| 🛍️ [**Segmentação de Clientes — Mall Customers**](https://github.com/pepsbr/analise-mall-customers-exploracao-modelos-descritivos) | Modelos Descritivos | `K-Means` · Método do Cotovelo · Coeficiente de Silhueta · Índices de Dunn e Davies-Bouldin |
+| 🏦 [**EDA e Dashboard Interativo — Desenrola Brasil (BCB)**](https://github.com/pepsbr/analise-dos-dados-desenrola-brasil-com-streamlit-para-vizualizacao) | Análise e Visualização de Dados | `Streamlit` · `Plotly` · `Seaborn` · Série Histórica e Concentração Bancária (Dados Abertos BCB) |
+| ⚽ [**Estatística Aplicada — Jogadores de Futebol (FIFA)**](https://github.com/pepsbr/projeto-final-estatisticas-jogadores-futebol) | Estatística I e II | Probabilidades · Teorema de Bayes · Correlação · Teorema Central do Limite · Intervalos de Confiança |
+| ☀️ [**Análise de Explosões Solares — API NASA DONKI**](https://github.com/pepsbr/analise-exploratoria-solar) | Introdução à Análise de Dados | Integração REST API (`requests`) · `pandas` · Engenharia de Atributos Temporais · `Matplotlib` |
 
 ---
 

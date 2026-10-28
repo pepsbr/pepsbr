@@ -60,6 +60,7 @@ Agrupamento das atividades e projetos práticos desenvolvidos na **Especializaç
 
 | Projeto / Dataset | Disciplina | Principais Técnicas & Ferramentas |
 | :--- | :--- | :--- |
+| 🌸 [**Análise da Base do Iris — Árvore de Decisão, PCA e CV**](https://github.com/pepsbr/analise-da-base-do-iris-arvore-de-decisao) | Modelos Preditivos Clássicos | RandomForest (SelectFromModel) · PCA · 5-Fold Cross-Validation · k-NN |
 | 🍷 [**Classificação da Qualidade de Vinhos (k-NN — UCI Wine Quality)**](https://github.com/pepsbr/projeto-02-modelos-preditivos-classicos-knn-wine) | Modelos Preditivos Clássicos | `KNeighborsClassifier` · `StandardScaler` · Método do Cotovelo · Matriz de Confusão · Curva ROC One-vs-Rest |
 | 🚢 [**EDA e Pré-processamento — Dataset Titanic**](https://github.com/pepsbr/projeto-01-modelos-preditivos-classicos-titanic) | Modelos Preditivos Clássicos | Imputação contextual por grupo · `LabelEncoder` · `One-Hot Encoding` · Holdout 70/30 · Prevenção de *Data Leakage* |
 | 🚓 [**Perfis de Criminalidade por Distrito — Chicago Crimes**](https://github.com/pepsbr/projeto-final-modelos-descritivos) | Modelos Descritivos | Clusterização Hierárquica · Análise de Robustez · Git LFS · Engenharia de Atributos Agregados |
